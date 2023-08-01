@@ -4,10 +4,6 @@ We firmly believe in the power of digitalization to drive innovation, and we are
 
 In this era of revolutionary digital transformation, businesses of all scales, from established enterprises to ambitious startups, rely on our expertise to orchestrate, safeguard, interconnect, and optimize their mission-critical applications. Our unwavering support allows them to redirect their focus towards continuous innovation and growth, unlocking their true potential in the digital landscape.
 
-## 💻 Open Source
-
-- In process...
-
 ## 🎯 Our Mission
 Our mission is to help people to digitalize their company in a customizable way. 🚀
 
