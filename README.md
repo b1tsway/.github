@@ -17,4 +17,4 @@ We like best practices, post about technical challenges we have solved and provi
 
 ## 👔 Interested in joining?
 
-Join us on our mission to make the cloud accessible and secure for everyone and work on state-of-the-art open-source and commercial products.
+Join us on our mission to make digital world accessible for everyone and work on state-of-the-art open-source and commercial products.
