@@ -39,9 +39,8 @@ The user undertakes the responsibility to make appropriate use of the contents a
 - A) Not to engage in activities that are illegal or contrary to good faith and public order;
 - B) Not to spread propaganda or content of a racist, xenophobic or gambling nature, any type of illegal pornography, terrorist claims or against human rights;
 - C) Do not cause damage to physical systems (hardware) and unattainable (software) of [bitsway](https://bitsway.dev), its suppliers or third parties, to introduce or disseminate computer viruses or any other hardware or software systems that are capable of causing damage previously mentioned.
--
+
 - ## More information
--
+
 - Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.
--
 - This policy is effective as of 1 August 2023 12:21.
